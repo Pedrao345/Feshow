@@ -26,5 +26,6 @@ Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus 
 - Pedro Henrique de Paula Rezende - pedro.paula.senai@gmail.com - Pedrao345
 - Juliano Correa Amaro - juliano.amaro.senai@gmail.com - juliano-amaro
 - Igor Gabriel Rodrigues Martins - igor.martins.senai@gmail.com - igormartins234
+- Paulo Henrique dos Santos - Email - GitHub
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
