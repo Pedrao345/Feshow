@@ -16,6 +16,7 @@ Este projeto foi feito para promover eventos culturais para pessoas que querem a
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
  Liste as principais tecnologias usadas no projeto, como por exemplo:
+ 
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
