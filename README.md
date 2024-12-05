@@ -4,10 +4,10 @@
 **Descrição:**
 Este projeto foi feito para promover eventos culturais para pessoas que querem acompanhar o mundo da música
 ## Índice
-- Funcionalidades
-- Tecnologias Utilizadas
-- Autores
-- Licença
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Autores](#autores)
+- [Licença](licença)
 ## Funcionalidades
 - Funcionalidades do projeto:
  - Informar quando e onde artistas famosos fizerem shows em sua cidade.
